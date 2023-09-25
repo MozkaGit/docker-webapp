@@ -1,4 +1,4 @@
-## Docker WebApp<br>[![Docker build and release](https://github.com/MozkaGit/docker-webapp/actions/workflows/registry.yaml/badge.svg)](https://github.com/MozkaGit/docker-webapp/actions/workflows/registry.yaml)</br>
+## Docker WebApp<br>[![Docker build and release](https://github.com/MozkaGit/docker-webapp/actions/workflows/registry.yaml/badge.svg)](https://github.com/MozkaGit/docker-webapp/actions/workflows/registry.yaml)
 
 Ce TP consiste à créer une image Docker et la publier sur Docker Hub en suivant les étapes suivantes : 
 
